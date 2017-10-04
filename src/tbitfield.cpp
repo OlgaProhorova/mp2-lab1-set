@@ -9,7 +9,7 @@
 
 #define BITS_IN_ONE_MEM (sizeof(TELEM) * 8)
 
-TBitField::TBitField(int len) //o.O
+TBitField::TBitField(int len)
 {
 
 }

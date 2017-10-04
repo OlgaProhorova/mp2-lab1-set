@@ -7,8 +7,7 @@
 
 #include "tset.h"
 
-TSet::TSet(int mp) : BitField(-1) //comment
-
+TSet::TSet(int mp) : BitField(-1) 
 {
 }
 
